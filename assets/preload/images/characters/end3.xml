@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="end3.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="end 30000" x="1" y="1" width="1280" height="717"/>
+	<SubTexture name="end 30001" x="1285" y="1" width="1280" height="717"/>
+	<SubTexture name="end 30002" x="2569" y="1" width="1280" height="717"/>
+	<SubTexture name="end 30003" x="3853" y="1" width="1280" height="717"/>
+	<SubTexture name="end 30004" x="5137" y="1" width="1280" height="717"/>
+	<SubTexture name="end 30005" x="6421" y="1" width="1280" height="717"/>
+	<SubTexture name="end 30006" x="1" y="722" width="1280" height="717"/>
+	<SubTexture name="end 30007" x="1285" y="722" width="1280" height="717"/>
+	<SubTexture name="end 30008" x="2569" y="722" width="1280" height="717"/>
+	<SubTexture name="end 30009" x="3853" y="722" width="1280" height="717"/>
+	<SubTexture name="end 30010" x="5137" y="722" width="1280" height="717"/>
+	<SubTexture name="end 30011" x="6421" y="722" width="1280" height="717"/>
+	<SubTexture name="end 30012" x="1" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 30013" x="1285" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 30014" x="2569" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 30015" x="3853" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 30016" x="5137" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 30017" x="6421" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 30018" x="1" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 30019" x="1285" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 30020" x="2569" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 30021" x="3853" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 30022" x="5137" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 30023" x="6421" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 30024" x="1" y="2885" width="1280" height="717"/>
+	<SubTexture name="end 30025" x="1285" y="2885" width="1280" height="717"/>
+</TextureAtlas>

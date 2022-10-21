@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-1,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-36,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				792,
+				714
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				797,
+				689
+			],
+			"anim": "shoot 2",
+			"fps": 24,
+			"name": "two shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "basdie",
+			"indices": [],
+			"name": "basdie"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gun",
+	"position": [
+		-120,
+		-10
+	],
+	"healthicon": "mak",
+	"flip_x": true,
+	"healthbar_colors": [
+		197,
+		197,
+		197
+	],
+	"camera_position": [
+		250,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

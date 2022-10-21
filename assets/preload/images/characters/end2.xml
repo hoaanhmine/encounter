@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="end2.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="end 20000" x="1" y="1" width="1280" height="717"/>
+	<SubTexture name="end 20001" x="1285" y="1" width="1280" height="717"/>
+	<SubTexture name="end 20002" x="2569" y="1" width="1280" height="717"/>
+	<SubTexture name="end 20003" x="3853" y="1" width="1280" height="717"/>
+	<SubTexture name="end 20004" x="5137" y="1" width="1280" height="717"/>
+	<SubTexture name="end 20005" x="6421" y="1" width="1280" height="717"/>
+	<SubTexture name="end 20006" x="1" y="722" width="1280" height="717"/>
+	<SubTexture name="end 20007" x="1285" y="722" width="1280" height="717"/>
+	<SubTexture name="end 20008" x="2569" y="722" width="1280" height="717"/>
+	<SubTexture name="end 20009" x="3853" y="722" width="1280" height="717"/>
+	<SubTexture name="end 20010" x="5137" y="722" width="1280" height="717"/>
+	<SubTexture name="end 20011" x="6421" y="722" width="1280" height="717"/>
+	<SubTexture name="end 20012" x="1" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20013" x="1285" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20014" x="2569" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20015" x="3853" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20016" x="5137" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20017" x="6421" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20018" x="1" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20019" x="1285" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20020" x="2569" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20021" x="3853" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20022" x="5137" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20023" x="6421" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20024" x="1" y="2885" width="1280" height="717"/>
+	<SubTexture name="end 20025" x="1285" y="2885" width="1280" height="717"/>
+	<SubTexture name="end 20026" x="2569" y="2885" width="1280" height="717"/>
+	<SubTexture name="end 20027" x="3853" y="2885" width="1280" height="717"/>
+	<SubTexture name="end 20028" x="5137" y="2885" width="1280" height="717"/>
+	<SubTexture name="end 20029" x="6421" y="2885" width="1280" height="717"/>
+	<SubTexture name="end 20030" x="1" y="3606" width="1280" height="717"/>
+	<SubTexture name="end 20031" x="1285" y="3606" width="1280" height="717"/>
+	<SubTexture name="end 20032" x="2569" y="3606" width="1280" height="717"/>
+	<SubTexture name="end 20033" x="3853" y="3606" width="1280" height="717"/>
+	<SubTexture name="end 20034" x="5137" y="3606" width="1280" height="717"/>
+	<SubTexture name="end 20035" x="6421" y="3606" width="1280" height="717"/>
+	<SubTexture name="end 20036" x="1" y="4327" width="1280" height="717"/>
+	<SubTexture name="end 20037" x="1285" y="4327" width="1280" height="717"/>
+	<SubTexture name="end 20038" x="1" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20039" x="1285" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20040" x="2569" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20041" x="3853" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20042" x="5137" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20043" x="6421" y="1443" width="1280" height="717"/>
+	<SubTexture name="end 20044" x="1" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20045" x="1285" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20046" x="2569" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20047" x="3853" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20048" x="5137" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20049" x="6421" y="2164" width="1280" height="717"/>
+	<SubTexture name="end 20050" x="1" y="2885" width="1280" height="717"/>
+	<SubTexture name="end 20051" x="1285" y="2885" width="1280" height="717"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				6
+			],
+			"anim": "singUP",
+			"fps": 17,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cry bitch",
+	"position": [
+		-120,
+		-10
+	],
+	"healthicon": "cryaboutit",
+	"flip_x": true,
+	"healthbar_colors": [
+		197,
+		197,
+		197
+	],
+	"camera_position": [
+		210,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

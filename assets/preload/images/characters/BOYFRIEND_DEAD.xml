@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND_DEAD.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Dead Loop0000" x="1" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead Loop0001" x="862" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0000" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0001" x="2584" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0002" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0003" x="2584" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0004" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0005" x="2584" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0006" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0007" x="2584" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0008" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0009" x="2584" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0010" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0011" x="2584" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0012" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0013" x="2584" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0014" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0015" x="2584" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0016" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0017" x="2584" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0018" x="1723" y="1" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0019" x="1" y="591" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0020" x="862" y="591" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0021" x="1723" y="591" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0022" x="2584" y="591" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0023" x="1" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0024" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0025" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0026" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0027" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0028" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0029" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0030" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0031" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0032" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0033" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0034" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0035" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0036" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0037" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0038" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0039" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0040" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0041" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0042" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0043" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0044" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0045" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0046" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0047" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0048" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0049" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0050" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0051" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0052" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0053" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0054" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0055" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0056" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0057" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0058" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0059" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0060" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0061" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0062" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0063" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0064" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0065" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0066" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0067" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0068" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0069" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0070" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0071" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0072" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0073" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0074" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0075" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0076" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0077" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0078" x="862" y="1181" width="857" height="586"/>
+	<SubTexture name="BF Dead confirm0079" x="1723" y="1181" width="857" height="586"/>
+	<SubTexture name="BF dies0000" x="2584" y="1181" width="857" height="586"/>
+	<SubTexture name="BF dies0001" x="1" y="1771" width="857" height="586"/>
+	<SubTexture name="BF dies0002" x="862" y="1771" width="857" height="586"/>
+	<SubTexture name="BF dies0003" x="862" y="1771" width="857" height="586"/>
+	<SubTexture name="BF dies0004" x="862" y="1771" width="857" height="586"/>
+</TextureAtlas>

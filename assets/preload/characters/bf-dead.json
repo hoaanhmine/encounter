@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				37,
-				11
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -25,7 +25,7 @@
 		{
 			"offsets": [
 				37,
-				69
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -34,11 +34,11 @@
 			"name": "BF Dead confirm"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/BOYFRIEND_DEAD",
 	"position": [
-		0,
-		350
+		-500,
+		-100
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -48,9 +48,9 @@
 		209
 	],
 	"camera_position": [
-		0,
+		520,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2.2
 }

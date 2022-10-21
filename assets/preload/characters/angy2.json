@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-1,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-36,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				799,
+				716
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bast",
+			"indices": [],
+			"name": "bas"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				792,
+				711
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				808,
+				662
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "2 shoot",
+			"indices": [],
+			"name": "two shoot"
+		},
+		{
+			"offsets": [
+				1,
+				-1
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "oh shit",
+			"loop": false,
+			"name": "oh shit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/2angy",
+	"position": [
+		-120,
+		-10
+	],
+	"healthicon": "youmadbro",
+	"flip_x": true,
+	"healthbar_colors": [
+		197,
+		197,
+		197
+	],
+	"camera_position": [
+		240,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

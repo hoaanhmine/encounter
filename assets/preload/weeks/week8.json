@@ -1,0 +1,32 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week 7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"encounter",
+			"thief1",
+			[
+				6,
+				0,
+				13
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week gay shit",
+	"hiddenUntilUnlocked": false
+}
